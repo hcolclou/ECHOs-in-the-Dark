@@ -1,5 +1,11 @@
 # ECHOs in the Dark
 
+## Video Demonstration:
+
+This demonstration was for the third milestone, which was not the final product, but the final milestone was presented in person so there is no video.
+
+https://www.youtube.com/watch?v=ogYvOY65jys&feature=youtu.be
+
 ## Final Game Report:
 
 For this milestone, we:
