@@ -1,0 +1,32 @@
+0.2
+level_4
+level_select
+enddoors
+ghosts
+endsigns
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+B                                                 B
+B                                                 B
+B                                                 B
+B                                                 B
+B                                                 B
+B                                                 B
+B                                                 B
+B                                                 B
+B                                              DT B
+B                                                 B
+B                            BBBBBBBBBBBBBBBBBBBBBB
+B                                                 B
+B                                               G B
+BBBBBBBB                                          B
+B      B     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+B      B                                          B
+B      B                                        G B
+B      B                                          B
+B      BBBBBBBBBBBBBBBBBBBBBBBBBBBBB     BBBBBBBBBB
+B                                                 B
+B                                                 B
+B                                                 B
+B  D  RT                                        G B
+B         S                                       B
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB

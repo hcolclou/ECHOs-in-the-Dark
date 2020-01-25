@@ -1,0 +1,42 @@
+0.2
+level_3
+level_select
+enddoors
+color
+endsigns
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+B                          B
+B                          B
+B                          B
+B                          B
+B                          B
+B                          B
+B                          B
+B                          B
+B                       DT B
+B                          B
+B                     BBBBBB
+B                          B
+B                          B
+B          MMMMMMMMMMMMMMMMB
+B          M               B
+B          M               B
+B          M               B
+B          M               B
+B          M               B
+B          M               B
+B          MMMMMMMMMMMMMMMMB
+B                          B
+B                          B
+BMMMMM                     B
+B                          B
+B                          B
+B          NNNNNN          B
+B                          B
+B                          B
+B                     CCCCCB
+B                          B
+B          R   M           B
+B       D     TN           B
+B          S   C           B
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB

@@ -1,0 +1,34 @@
+0.2
+level_2
+level_select
+enddoors
+fly
+endsigns
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+B                          B
+B                          B
+B                          B
+B                          B
+B                          B
+B                          B
+B                          B
+B                          B
+B                       DT B
+B                          B
+B                     BBBBBB
+B                          B
+B                          B
+B                          B
+B                          B
+B                     BBBBBB
+B                          B
+B                          B
+B          BBBBBB          B
+B                          B
+B                          B
+B                     BBBBBB
+B                          B
+B          R               B
+B       D     T            B
+B          S               B
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB
